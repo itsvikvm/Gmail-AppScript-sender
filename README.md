@@ -1,4 +1,7 @@
 # Gmail Apps Script sender
+
+Apps Script link: https://script.google.com/d/1dzv9P3U7xT55zecPPuM0YW_AFMCSBTCK-RqDL-HJc1ZdukVau2hUj-jf/edit?usp=sharing
+
 AppsScript script to automate email sending, likely outdated, but I think that's a cool use case!
 
 ChatGPT created this script a few years ago for me, but it might be useful to someone. You can write a similar one using ChatGPT based on your requests or simply check the documentation. Readme is also chatgpt generated sorry
